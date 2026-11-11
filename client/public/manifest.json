@@ -1,0 +1,24 @@
+{
+  "short_name": "Samuel Corrêa",
+  "name": "Samuel Corrêa | CRM",
+  "icons": [
+    {
+      "src": "/logo_icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo_icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#050506",
+  "theme_color": "#050506",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "CRM Imobiliário — Samuel Corrêa Corretor de Imóveis"
+}

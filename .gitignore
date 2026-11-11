@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.local
+server/.env
+client/.env
+server/uploads/
+*.db
+*.log
+.vercel/
+.DS_Store
+scratch/
